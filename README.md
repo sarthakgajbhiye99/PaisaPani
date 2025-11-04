@@ -105,7 +105,7 @@ The backend server is located in the `lib/backend` directory.
 ### App Screenshots
 
 <img width="412" height="914" alt="image" src="https://github.com/user-attachments/assets/7ca2e374-bd56-4818-a6f3-c51ce90c2890" />
-<img width="408" height="951" alt="image" src="https://github.com/user-attachments/assets/bfc9f559-28b7-4b84-8f05-2357af44d69e" />
+<img width="409" height="918" alt="image" src="https://github.com/user-attachments/assets/acad5dd7-2314-483e-8146-dc527982310f" />
 <img width="408" height="917" alt="image" src="https://github.com/user-attachments/assets/a3f10733-3a2e-4c23-97c3-95e62dd882eb" />
 <img width="410" height="912" alt="image" src="https://github.com/user-attachments/assets/74852c39-291d-4334-b39d-77f1bc59e546" />
 
